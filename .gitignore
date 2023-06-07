@@ -1,7 +1,8 @@
 cache/*
 data/movement-speeds-hourly-new-york-2019-11.csv.zip
 data/nyc_osm_2023-05-31.graphml
-
+.DS_Store
+Untitled1.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
